@@ -6,7 +6,7 @@
   },
   {
     "type": "file",
-    "name": "timing-api",
-    "label": "Timing API"
+    "name": "timing-flag",
+    "label": "Marking Lynx Pipeline"
   }
 ]
