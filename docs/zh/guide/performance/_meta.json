@@ -7,13 +7,6 @@
     "collapsed": true
   },
   {
-    "type": "file",
-    "name": "optimize-performance",
-    "label": "优化性能",
-    "collapsible": true,
-    "collapsed": true
-  },
-  {
     "type": "dir",
     "name": "monitor-performance",
     "label": "监控性能",
